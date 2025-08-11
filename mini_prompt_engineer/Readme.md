@@ -91,6 +91,7 @@ Practicing LLM prompt + response formatting
 
 <sub>![alt text](image-2.png)</sub>
 
+As we can see from screen shots it has modify question for formal one but for others it has give response for our text , we will be solving this problem in upcomming projects for guardrails.
 🙌 Credits
 Built by Pranav 💻🦙
 Powered by LLaMA 3.1 via Ollama and Streamlit.
