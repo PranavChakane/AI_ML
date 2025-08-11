@@ -48,7 +48,7 @@ This spins up the local model server at http://localhost:11434.
 🧰 Installation
 
 # Clone the repo
-git clone https://github.com/your-username/mini_prompt_engineer.git
+git clone https://github.com/PranavChakane/AI_ML.git
 cd mini_prompt_engineer
 
 # Create and activate virtual environment
